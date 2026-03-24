@@ -1,4 +1,4 @@
-![Mi Cabecera](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Entusiasta+de+la+IA;Aprendiz+constante)
+![Mi Cabecera](https://www.campusmvp.es/recursos/image.axd?picture=/Logos-Banners/Git-Header.png)
 
 # ¡Hola! Soy Jose Luis 👋
 
