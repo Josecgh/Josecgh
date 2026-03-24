@@ -30,6 +30,6 @@ Vivo en Mieres, me apasiona crear soluciones que para los fallos en la programac
 ---
 
 ### 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-luis-castro-garcía-545b4a320)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-castro-garc%C3%ADa-545b4a320/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Josecgh)
 
