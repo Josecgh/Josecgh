@@ -14,12 +14,12 @@ Vivo en Mieres, me apasiona crear soluciones que para los fallos en la programac
 | **Lenguajes** | `JavaScript`, `html`, `css`, `Java` |
 | **Frontend** | `React`, `Angular`, `Bootstrap` |
 | **Backend** | `php`, `MySQL` |
-| **Herramientas** | `Git`, `Canva`, `Figma` |
+| **Herramientas** | `Git`, `Canva`, `Figma`, 'Firebase' |
 
 ---
 
 ### 📈 Lo que estoy haciendo ahora
-- 🔭 Actualmente trabajando en **El certificado de profesionalidad de Confección y publicación de páginas web**.
+- 🔭 Actualmente trabajando en **Bootcamp de fullstack**.
 - 🌱 Aprendiendo sobre **Diseño de sitios web de forma más profesional**.
 - ⚡ Dato curioso: **"Hago el mejor café de mi código"**.
 
