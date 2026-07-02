@@ -19,7 +19,8 @@ Vivo en Mieres, me apasiona crear soluciones que para los fallos en la programac
 ---
 
 ### 📈 Lo que estoy haciendo ahora
-- 🔭 Actualmente trabajando en **Bootcamp de fullstack**.
+- 🔭 Actualmente haciendo un **Bootcamp de fullstack**.
+- :briefcase: He trabajado en **Seresco en el area de producción de software**
 - 🌱 Aprendiendo sobre **Diseño de sitios web de forma más profesional**.
 - ⚡ Dato curioso: **"Hago el mejor café de mi código"**.
 
