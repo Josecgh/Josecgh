@@ -13,7 +13,7 @@ Vivo en Mieres, me apasiona crear soluciones que para los fallos en la programac
 | :--- | :--- |
 | **Lenguajes** | `JavaScript`, `html`, `css`, `Java` |
 | **Frontend** | `React`, `Angular`, `Bootstrap` |
-| **Backend** | `php`, `MySQL` |
+| **Backend** | `php`, `MySQL`, `Springboot` |
 | **Herramientas** | `Git`, `Canva`, `Figma`, `Firebase`|
 
 ---
